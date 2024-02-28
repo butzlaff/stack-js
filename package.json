@@ -1,0 +1,22 @@
+{
+  "name": "pilha-js",
+  "version": "1.0.0",
+  "description": "Package to manager a Stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/butzlaff/stack-js.git"
+  },
+  "keywords": [
+    "stack in Javascript"
+  ],
+  "author": "Emilio Butzlaff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/butzlaff/stack-js/issues"
+  },
+  "homepage": "https://github.com/butzlaff/stack-js#readme"
+}
